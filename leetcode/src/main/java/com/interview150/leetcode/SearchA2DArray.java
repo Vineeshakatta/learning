@@ -1,4 +1,4 @@
-package com.example.leetcode;
+package com.interview150.leetcode;
 
 //https://leetcode.com/problems/search-a-2d-matrix
 
